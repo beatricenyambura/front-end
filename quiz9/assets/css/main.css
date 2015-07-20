@@ -1,0 +1,49 @@
+   
+       body{overflow: auto;
+            }
+     #container{width:236px;
+                height: 400px;
+                border-style:solid;
+               border-radius:2px;
+               position: relative;
+               margin:0px auto;
+               border-radius: 20px;
+               background-color: #e55ea2;
+               padding-right:10px;
+               padding-left:50px;
+               padding-top: 10px;
+              padding-bottom:25px;
+              font-family: inherit; 
+              margin-top: 35px;
+            } 
+    textarea{
+              vertical-align:top;
+              display:block;
+              background:none;
+            }
+
+    #email{
+            width:238px;
+            height:66px;
+          }
+
+    #first{
+           width:240px;
+           height:66px;
+          }
+
+   #password{
+            width:240px;
+            height:66px;
+            }
+
+   #submit{ 
+            width:240px;
+            height:66px;
+          }
+
+    #name{
+          width:116px;
+          height:24px;
+        }
+

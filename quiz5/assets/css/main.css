@@ -1,0 +1,29 @@
+	body {
+      background-color:blue; 
+      }
+              
+ #container{
+               width:700px;
+               border: dotted;
+               border-color: blue;
+               margin: 0px auto;
+               background-color: aqua;
+               border-width:10px;
+                 }
+
+h1{background-color:violet;
+	font-size:50px;
+   
+   border-width: 5px
+}
+h2{background-color:violet;
+	font-size:40px;
+   
+}    
+#akoko{background-color:aqua;
+       border:dotted;
+        border-color:red;}
+
+}      
+
+ 

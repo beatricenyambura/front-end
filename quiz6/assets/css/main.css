@@ -1,0 +1,73 @@
+	body {
+          background-color:#ff6969;
+          }
+  
+        #container{     
+                 width:700px;
+                 min-height:700px;
+                 border-color:blue;
+                 margin:0px auto;
+                 background-image:url(../images/au.jpg);
+                 border-color:blue;
+                 border-spacing:10px;
+                 text-align:center;
+                 padding-top:25px;
+                 padding-right:25px;
+                 padding-bottom:25px;
+                 padding-left:25px;
+                  }
+
+            #across{width:275px;
+                    height:200px;
+                    background-color:#f576a2;
+                    margin:50px  50px 50px 50px;
+                    display:inline-block;
+                    border:50px;
+                    float:top-left;
+                    }
+        
+            #kihuthu{width:275px;
+                    height:200px;
+                    float:top-right;
+                    background-image:url(../images/roses.jpg);
+                    margin:50px 0px 50px 50px;
+                    display:inline-block;
+                    border:50px;
+                    text-align:center; 
+                    }
+      /* first :styling*/;
+          #kisinga{width:600px;
+                   height:200px;
+                   border:50px;
+                   margin:50px 0px 50px 50px;
+                   display:inline-block;
+      /* last :styling*/;             
+                  }
+   /* start :styling*/;
+         #chuma{width:275px;
+                height:200px;     
+                background-color:#DC143c ;
+                margin:0px auto;
+               text-align:center;
+               }
+    /* stop :styling*/;
+
+ /* start :styling*/
+    #carol{width:275px;
+           height:200px;
+           border:50px;
+           background-color:#ff69b4;
+           display:inline-block;
+           margin:50px 50px 50px 50px;
+          }
+         /* end :styling*/  
+   
+
+
+        
+   
+         
+      
+
+      
+

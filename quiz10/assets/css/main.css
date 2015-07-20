@@ -1,0 +1,32 @@
+  body{background-color:white;
+       margin-top: 150px;
+       margin-bottom: 150px;
+      }
+     #container{margin:0px auto;
+               border:1px;
+               width:840px;
+               height:212px;
+               }
+       table{
+              border:1px solid #dddddd;
+             }
+    table tr td{
+               margin:12px ;
+               border:1px;
+               height:39px;
+               border-color:solid red; 
+               }
+ tr:nth-child(even){
+                   background-color:#f1f1f1;
+                   }
+      tr{
+          border:1px solid #dddddd;
+         }
+
+    tr:nth-child(odd){
+                     background-color:#ffffff;
+                     }
+    tr td{border:1px;
+         padding-left: 12px;
+         padding-right: 12px;
+         }

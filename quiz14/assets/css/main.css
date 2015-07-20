@@ -1,0 +1,120 @@
+/*start:body*/
+
+    body{
+    background-color: black;
+       } 
+
+    #container{
+        width: 864px;
+        overflow: auto; 
+        margin: 0px auto;
+        background-color:#f3f3f3;
+        border: 0px solid;
+        border-color: #000000;
+        padding-top: 20px;
+        }
+
+     h4{color:#d08a06;
+        margin-top:30px;
+        margin-left: 42px;
+        }
+
+      hr{width:864px;
+        }
+
+   #country{height:100px;
+           margin-top: 5px;
+           font-family:Arial;
+           margin-right:15px;
+           width:870px;
+           margin-bottom: 10px;
+            }
+
+         p{float: right;
+           margin-left:246px;
+           margin-top: 1px;
+           margin-right: 17px;
+          }
+
+     #trip{height:190px;
+  	      border-top:1px solid;
+  	      width:870px;
+  	      font-family: Arial;
+          }
+
+     #camera{border-top:1px solid;
+            font-family: Arial;
+       	    width:869px;
+       	    overflow: auto;
+            }
+
+      #tune{border-top:1px solid;
+             font-family: Arial;
+             height:140px;
+             width:869px;
+             }
+
+        img{border-radius:40%;
+            float: left;
+            height:50px;
+            width: 70px;
+            margin-left: 10px;
+            background-color: none;
+           }
+
+         hr{border:1px solid;
+            border-color:#d08a06;
+            width:869; 
+           }
+  
+   .skillsbar{width:96%;
+              height: 30px;
+             background-color: #cccccc;
+                }
+
+      .html{height: 30px;
+            background-color: #d08a06;
+            width: 85%;
+           }
+
+     #style{margin-left:246px; 
+            margin-bottom: 15px;
+           }
+
+      .php{height: 30px;
+           background-color: #d08a06;
+           width: 65%;
+          }
+
+      .css{height: 30px;
+           background-color:#d08a06;
+           width: 80%;
+           }
+
+   .graphics{height: 30px;
+              background-color: #d08a06;
+              width: 75%;
+             }
+
+   table{float:right;
+         margin-top: 20px;
+       }
+
+    #hobbies{border-top: 1px solid;
+           margin-top: 10px;
+           }
+
+    #beatrice{
+             height: 128px;
+             margin-bottom:20px;
+              }
+
+      #time{float:right;
+           margin-bottom: 15px;
+          }
+
+      #you{margin-right: 10px;
+           height: 200px;
+        }
+
+        #beatrice{text-align: center;}

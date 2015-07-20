@@ -1,0 +1,74 @@
+body{margin-top:50px;
+	background-color:#ffffff;
+
+    
+      }
+#container{position:relative;
+           width: 500px;
+           height: 500px;
+           margin: 0px auto;
+           border: solid;
+           background-color:#ff6969;
+           text-align:center;
+           font-style: oblique;
+           border-radius: 40px;
+        
+    background: -webkit-linear-gradient(redk, blue); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(redk, blue); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(red, bklue); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(red, blue); /* Standard syntax (must be last) */
+    }
+           
+                       
+#panel1{position: absolute;
+        width: 150px;
+        height: 150px;
+        top:-50px;
+        left: -50px;
+        float:left;
+        outline-color:#dc143c; 
+        background-image:url(../images/2014.jpg);
+        border-style:solid;
+        border-radius: 40px;
+         }              
+
+#panel2{position: absolute;
+        width: 150px;
+        height: 150px;
+        top:-50px;
+        right: -50px;
+        float:right;
+        text-align:center;
+        background-color:#e55ea2;
+        outline-style: solid;
+        outline-color: #dc143c;
+        border-radius: 40px;
+}
+#panel3{position: absolute;
+        width: 150px;
+        height: 150px;
+        bottom:-50px;
+        left: -50px;
+        float:left;
+        outline-style:solid;
+        outline-color:#e55ea2; 
+        text-align:center;
+        background-color: #dc143c;
+        border-radius: 40px;
+
+}
+#panel4{position: absolute;
+        width: 150px;
+        height: 150px;
+        bottom:-50px;
+        right: -50px;
+        float:right;
+        outline-style: solid;
+        text-align:center;
+        background-color: #cc5490;
+        outline-color: #dc143c;
+         border-radius: 40px
+}         
+h3{background-color: white;
+	 text-decoration: underline
+   }

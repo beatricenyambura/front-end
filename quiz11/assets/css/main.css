@@ -1,0 +1,30 @@
+   #body{background-color:#ff6969;
+          overflow:auto;
+    }
+ #container{
+            width:960px;
+            border:1px solid #dddddd;
+            height: 856px;
+            background-color: #c1c1c1;
+            margin:0px auto;
+           }
+   #assets{
+           width:804;
+           height:370px;
+           margin-left: 78px;
+           margin-top: 70px;
+          margin-right: 78px;
+          background-color: #ffffff;
+         } 
+ #video{ 
+         margin-left:19px;
+         margin-top: 18px;
+         margin-right: 20px;
+         float:left;
+         }
+    #map{
+         margin-right: 28px;
+         float:left;
+         margin-left: 78px;
+         padding-top:20px; 
+         }

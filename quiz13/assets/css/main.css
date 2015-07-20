@@ -1,0 +1,172 @@
+/*start:body*/
+/*start:body*/
+body{
+  background-color: #0000ff;
+} 
+/*end:body*/
+#container{
+  width: 642px;
+  max-height: 336px;
+  margin: 0px auto;
+  margin-top: 90px;
+  padding: 30px;
+  padding-bottom: 70px;
+ 
+  background: -webkit-linear-gradient(left, #be9ea0 , #9ac7c4); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(right, #be9ea0 , #9ac7c4 ); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(right,#be9ea0 , #9ac7c4); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to right, #be9ea0 , #9ac7c4); /* Standard syntax */
+}
+
+i.fa{
+  color:#6b6f78;
+}
+#june{
+  width: 406px;
+  height: 58px;
+  margin: 0px auto;
+  background-color: #ffffff;
+  text-align: center;
+  font-size: 30px;
+  color: #000000;
+}
+#june i {
+  border: solid 1px;
+  width: 34px;
+  height: 33px;
+   margin: 12px 0px 12px 0px;
+}
+#map{
+  width: 406px;
+  height: 58px;
+  margin: 0px auto;
+  background-color: #ffffff;
+  text-align: center;
+  font-size: 30px;
+}
+#map i{
+  border: solid 1px;
+  width: 34px;
+  height: 33px;
+  border-radius:5px;
+ margin: 12px 0px 12px 0px;
+}
+#video{
+  width: 406px;
+  height: 58px;
+  margin: 0px auto;
+  background-color: #ffffff;
+  font-size: 30px;
+  text-align: center;
+}
+#video i{
+  width: 34px;
+  height: 33px;
+  margin: 12px 0px 12px 0px;
+  border-radius: 5px;
+
+}
+#pet{
+  width: 406px;
+  height: 58px;
+  margin: 0px auto;
+  background-color: #ffffff;
+  font-size: 30px;
+  text-align: center;
+}
+#pet i{
+  width: 34px;
+  height: 33px;
+  color: #ffffff;
+  border-radius:5px;
+   margin: 12px 0px 12px 0px;
+}
+#village{
+  width: 406px;
+  height: 58px;
+  margin: 0px auto;
+  background-color: #ffffff;
+  text-align: center;
+  font-size: 30px;
+}
+#village i{
+  width: 34px;
+  height: 33px;
+   margin: 12px 0px 12px 0px;
+}
+#june a .fa-pinterest{
+  color:#d95258;
+  text-align:center;
+}
+#map a .fa-flickr{
+  background-color: #ff0085;
+  color: #ffffff;
+}
+#video a .fa-dribbble{
+  background-color:#fb73a5;
+  color: #ffffff;
+}
+#video a .fa-facebook{
+  background-color:#3b5a9b;
+  color: #ffffff;
+}
+#video a .fa-flickr{
+  background-color:#ff0085;
+  color: #ffffff;
+}
+#video a .fa-google-plus{
+  background-color:#f73c25;
+  color: #ffffff;
+}
+#video a .fa-instagram{
+  background-color:#5386bf;
+  color: #ffffff;
+}
+#video a .fa-pinterest{
+  background-color:#c72125;
+  color: #ffffff;
+}
+#video a .fa-twitter{
+  background-color:#2baae1;
+  color: #ffffff;
+}
+#video a .fa-youtube{
+  background-color:#ff3430;
+  color: #ffffff;
+}
+#pet a .fa-calendar{
+  background-color:#1abc9c;
+  color:#ffffff;
+}
+#pet a .fa-cog{
+  background-color:#30cc71;
+  color:#ffffff;
+}
+#pet a .fa-heart-o{
+  background-color:#3798dc;
+  color:#ffffff;
+
+}
+#pet a .fa-volume-off{
+  background-color:#9c59ba;
+  color:#ffffff;
+}
+#pet a .fa-list-ul{
+  background-color:#33495e;
+  color:#ffffff;
+}
+#pet a .fa-file-o{
+  background-color:#f49c14;
+  color:#ffffff;
+}
+#pet a .fa-video-camera{
+  background-color:#e77e23;
+  color:#ffffff;
+}
+#pet a .fa-camera{
+  background-color:#808b8d;
+  color:#ffffff;
+}
+#village a .fa-flickr{
+  color:#ff0082;
+}
